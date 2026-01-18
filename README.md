@@ -1,3 +1,7 @@
+# HPDIC MOD
+
+Go to [hpdic/readme.md](hpdic/readme.md) for the HPDIC documentation.
+
 <!-- markdownlint-disable MD001 MD041 -->
 <p align="center">
   <picture>
